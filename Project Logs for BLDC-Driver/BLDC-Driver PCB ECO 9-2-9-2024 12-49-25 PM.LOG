@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C17 Old Footprint=CAPC1608X90N New Footprint=CAPC2012X95N
+Change component parameters: Designator = "C17" ("C17"); Footprint = "CAPC1608X90N"; UniqueID = "\NPSWVARV" ("\NPSWVARV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM219F51H104ZA01B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM21F51H104ZA01B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM219F51H104ZA01B?qs=A13M%252BoT%252Bkzo6MjTOB8REcg%3D%3D"; VariantName = "[No Variations]"
